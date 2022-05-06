@@ -1,2 +1,149 @@
 # jornada-dev.github.io
 Currículo do Jornada Dev
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leandro CV</title>
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <main class="resume-contents">
+        <section class="left-section">
+            <div class="left-section-contents">
+                <div class="profile">
+                    <img class="profile-image" src="img/profile-image.jpg" alt="Profile image">
+                    <p class="name">LEANDRO SOARES</p>
+                    <p class="profession">Software Engineer</p>
+                </div>
+                <div class="contact-info">
+                    <p class="left-title">Contato</p>
+                    <ul>
+                        <li><i class="fa fa-phone"></i>+5511 9999901111
+                        </li>
+                        <li><i class="fa fa-envelope"></i>eu@gmail.com
+                        </li>
+                        <li><i class="fa fa-globe"></i>eu.dev.com
+                        </li>
+                        <li><i class="fa fa-github"></i>leoarcabold
+                        </li>
+                    </ul>
+                </div>
+                <div class="skills">
+                    <p class="left-title">Skills</p>
+                    <ul>
+                        <li><p>Java</p></li>
+                        <li><p>JavaScript</p></li>
+                        <li><p>HTML5 &amp; CSS3</p></li>
+                        <li><p>SQL</p></li>
+                        <li><p>Git &amp; GitHub</p></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="right-section">
+            <div class="right-section-contents">
+                <section class="about gap">
+                    <div class="right-title">Sobre Mim</div>
+                    <p class="about-me-contents">
+                        Estudante de engenharia de processos apaixonado por programação e denvolvimento de Software, 
+                        com grande entusiasmos em aprender e poder trabalhar com aplicação front-end.
+                    </p>
+                </section>
+
+                <section class="experience gap">
+                    <div class="right-title">Experiência</div>
+                    <div class="experience-contents">
+                        <div class="exp-left">
+                            <p class="exp-company-name">Blades</p>
+                            <p class="exp-time-period">2009-2022</p>
+                        </div>
+                        <div class="exp-right">
+                            <p class="exp-position">Projetista</p>
+                            <p class="exp-desc">
+                                Trabalhando com desenvolvimento de produtos para o setor indústrial usando aplicação SolidWORKS e PTC Creo.  
+                            </p>
+                        </div>
+                    </div>
+                    <div class="experience-contents">
+                        <div class="exp-left">
+                            <p class="exp-company-name">Ascongraph</p>
+                            <p class="exp-time-period">2008-2009</p>
+                        </div>
+                        <div class="exp-right">
+                            <p class="exp-position">Instrutor</p>
+                            <p class="exp-desc">
+                                Promovendo treinamento para novos usuários da aplicação CAD CAM do sistema MasterCAM.
+                            </p>
+                        </div>
+                    </div>
+                    
+                </section>
+
+                <section class="education gap">
+                    <div class="right-title">Formação</div>
+                    <div class="education-contents">
+                        <div class="education-left">
+                            <p class="education-school-name">Unicesumar</p>
+                            <p class="educationp-time-period">2022-Present</p>
+                        </div>
+                        <div class="education-right">
+                            <p class="education-subject">Engenharia de Processos</p>
+                            <p class="education-desc">
+                                Bacharelado em Engenharia de Processos
+                            </p>
+                        </div>
+                    </div>
+                    <div class="education-contents">
+                        <div class="education-left">
+                            <p class="education-school-name">Senac SP</p>
+                            <p class="educationp-time-period">2014-20161</p>
+                        </div>
+                        <div class="education-right">
+                            <p class="education-subject">Análise e Desenvolvimento de Sistemas</p>
+                            <p class="education-desc">
+                                Graduação Técnologica, 2018
+                            </p>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="awards gap">
+                    <div class="right-title">Certificados</div>
+                    <div class="awards-contents">
+                        <div class="awards-left">
+                            <p class="awards-company-name">Jornada Dev</p>
+                            <p class="awards-time-period">Maio 2022</p>
+                        </div>
+                        <div class="awards-right">
+                            <p class="awards-name">Programação</p>
+                            <p class="awards-desc">
+                                Git & GitHub, HTML, CSS, Figma e VS Code Microsoft.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="awards-contents">
+                        <div class="awards-left">
+                            <p class="awards-company-name">Introdução a Programação</p>
+                            <p class="awards-time-period">Maio ~ Dezembro 2022</p>
+                        </div>
+                        <div class="awards-right">
+                            <p class="awards-name">Docker in Depth</p>
+                            <p class="awards-desc">
+                                Issued Nov 2021 - No Expiration Date
+                            </p>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </section>
+    </main>
+
+</body></html>
